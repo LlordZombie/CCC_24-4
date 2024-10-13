@@ -1,3 +1,5 @@
+package utilities;
+
 public class MathUtilities {
     public static int max(int... a) {
         if (a.length == 0) return 0;

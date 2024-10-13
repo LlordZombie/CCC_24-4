@@ -1,3 +1,5 @@
+package utilities;
+
 import java.io.*;
 import java.nio.charset.Charset;
 import java.nio.file.*;
@@ -5,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FileIOUtilities {
-
+@SuppressWarnings("unused")
     public static void other() throws IOException {
 
         BufferedReader inB = Files.newBufferedReader(

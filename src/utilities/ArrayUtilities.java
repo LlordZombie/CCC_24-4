@@ -1,3 +1,5 @@
+package utilities;
+
 public class ArrayUtilities {
 
     public static void printArray(int[][] a) {

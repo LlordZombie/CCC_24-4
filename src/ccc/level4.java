@@ -1,2 +1,4 @@
-package ccc;public class level4 {
+package ccc;
+
+public class level4 {
 }
